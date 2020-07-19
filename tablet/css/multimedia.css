@@ -1,0 +1,451 @@
+.version.multimedia /* version checker */
+{
+	color: #0000EE;
+	background-color: #FD8C37;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 730px;
+	min-height: 993px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F2F2F2;
+	padding: 7px 31px 24px 7px;
+}
+
+#pu2069
+{
+	width: 0.01px;
+}
+
+#u2069
+{
+	z-index: 56;
+	width: 274px;
+	background-color: transparent;
+	padding-bottom: 6px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2070
+{
+	z-index: 57;
+	width: 262px;
+	min-height: 264px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 7px;
+}
+
+#pzerovectors_multimedia
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 327px;
+}
+
+#zerovectors_multimedia
+{
+	position: relative;
+}
+
+#gallery3d
+{
+	margin-left: 16px;
+	margin-top: 245px;
+	position: relative;
+}
+
+#pu2077-27
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	margin-left: 372px;
+}
+
+#u2077-27
+{
+	z-index: 83;
+	width: 142px;
+	min-height: 232px;
+	background-color: transparent;
+	text-align: right;
+	margin-left: 213px;
+	position: relative;
+}
+
+#u2077-2
+{
+	font-size: 15px;
+	line-height: 18px;
+}
+
+#u2077
+{
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+}
+
+#u2077-6,#u2077-10,#u2077-14,#u2077-18,#u2077-22,#u2077-25
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u2077-4,#u2077-8,#u2077-12,#u2077-16,#u2077-20,#u2077-24
+{
+	font-size: 11px;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	line-height: 13px;
+}
+
+#u2055
+{
+	z-index: 2;
+	width: 262px;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u2065-12
+{
+	z-index: 11;
+	width: 221px;
+	min-height: 71px;
+	background-color: transparent;
+	text-align: center;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	margin-left: 392px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#pwalkthrough_gallery
+{
+	width: 0.01px;
+	margin-left: 273px;
+	margin-top: 59px;
+}
+
+#u2057
+{
+	z-index: 4;
+	width: 266px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 92px;
+}
+
+#u2066-18
+{
+	z-index: 23;
+	width: 221px;
+	min-height: 71px;
+	background-color: transparent;
+	text-align: center;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	margin-left: 388px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u2066-6,#u2066-11
+{
+	color: #565656;
+}
+
+#pcinemagraphs
+{
+	width: 0.01px;
+	margin-left: 280px;
+	margin-top: 61px;
+}
+
+#u2059
+{
+	z-index: 6;
+	width: 276px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 80px;
+}
+
+#u2067-9
+{
+	z-index: 41;
+	width: 221px;
+	min-height: 58px;
+	background-color: transparent;
+	text-align: center;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	margin-left: 388px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#ptree_js
+{
+	width: 0.01px;
+	margin-left: 61px;
+	margin-top: 51px;
+}
+
+#u2072
+{
+	z-index: 58;
+	width: 621px;
+	background-color: transparent;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 48px;
+}
+
+#u2073
+{
+	z-index: 59;
+	width: 603px;
+	min-height: 603px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 10px;
+}
+
+#paugmented_reality_app
+{
+	width: 0.01px;
+	margin-left: 87px;
+	margin-top: 42px;
+}
+
+#u2075-22
+{
+	z-index: 60;
+	width: 481px;
+	min-height: 71px;
+	background-color: transparent;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 144px;
+}
+
+#u2075-2
+{
+	font-size: 13px;
+	text-align: left;
+	line-height: 16px;
+}
+
+#u2075-3
+{
+	font-size: 11px;
+	text-align: center;
+	line-height: 13px;
+}
+
+#u2075-8,#u2075-13,#u2075-15,#u2075-17,#u2075-19,#u2075-20
+{
+	font-size: 11px;
+	text-align: left;
+	line-height: 13px;
+	color: #565656;
+}
+
+#u2076
+{
+	z-index: 82;
+	vertical-align: top;
+	width: 346px;
+	height: 124px;
+	margin-left: 231px;
+	margin-top: 7px;
+	position: relative;
+	background: url("../../images/zvectorslogo_target-u2076.png") no-repeat 0px 0px;
+}
+
+#pstandalone_app
+{
+	width: 0.01px;
+	margin-left: 150px;
+	margin-top: 101px;
+}
+
+#walkthrough_gallery,#cinemagraphs,#tree_js,#augmented_reality_app,#standalone_app
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
+#u3850-17
+{
+	z-index: 112;
+	width: 403px;
+	min-height: 106px;
+	background-color: transparent;
+	text-align: right;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 160px;
+}
+
+#u2065-4,#u2066-4,#u2067-4,#u3850-2
+{
+	font-size: 13px;
+	line-height: 16px;
+}
+
+#u2065-5,#u2066-5,#u2066-16,#u2067-5,#u3850-3
+{
+	font-size: 11px;
+	line-height: 13px;
+}
+
+#u2065-10,#u2067-7,#u3850-5,#u3850-6,#u3850-9,#u3850-12,#u3850-15
+{
+	font-size: 11px;
+	line-height: 13px;
+	color: #565656;
+}
+
+#u3848
+{
+	z-index: 110;
+	width: 426px;
+	background-color: transparent;
+	margin-left: 287px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u3849
+{
+	z-index: 111;
+	width: 426px;
+	min-height: 241px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu2063
+{
+	width: 0.01px;
+	margin-left: 319px;
+	margin-top: 81px;
+}
+
+#u2063
+{
+	z-index: 10;
+	width: 47px;
+	min-height: 42px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u2061
+{
+	z-index: 8;
+	width: 57px;
+	position: relative;
+	margin-right: -10000px;
+	left: 59px;
+}
+
+.logo
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u2068-6
+{
+	z-index: 50;
+	width: 84px;
+	min-height: 13px;
+	background-color: transparent;
+	color: #999999;
+	font-size: 9px;
+	line-height: 11px;
+	margin-left: 14px;
+	margin-top: 26px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

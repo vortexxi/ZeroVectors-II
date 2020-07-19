@@ -1,0 +1,452 @@
+.version.multimedia /* version checker */
+{
+	color: #00000D;
+	background-color: #4EDA35;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 357px;
+	min-height: 533.6000000000008px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F2F2F2;
+	padding: 7px 13px 29.39999999999918px 10px;
+}
+
+#pu3886
+{
+	width: 0.01px;
+	margin-left: 46px;
+}
+
+#u3886
+{
+	z-index: 130;
+	width: 268px;
+	background-color: transparent;
+	padding-bottom: 8px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+}
+
+#u3887
+{
+	z-index: 131;
+	width: 250px;
+	min-height: 250px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 9px;
+}
+
+#zerovectors_multimedia
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 271px;
+}
+
+#u2875-27
+{
+	z-index: 75;
+	width: 142px;
+	min-height: 222px;
+	background-color: transparent;
+	text-align: right;
+	margin-left: 205px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u2875-2
+{
+	font-size: 15px;
+	line-height: 18px;
+}
+
+#u2875
+{
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+}
+
+#u2875-6,#u2875-10,#u2875-14,#u2875-18,#u2875-22,#u2875-25
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u2875-4,#u2875-8,#u2875-12,#u2875-16,#u2875-20,#u2875-24
+{
+	font-size: 11px;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	line-height: 13px;
+}
+
+#pgallery3d
+{
+	width: 0.01px;
+	margin-left: 11px;
+	margin-top: 16px;
+}
+
+#u2853
+{
+	z-index: 2;
+	width: 262px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 74px;
+}
+
+#u2863-10
+{
+	z-index: 11;
+	width: 221px;
+	min-height: 71px;
+	background-color: transparent;
+	text-align: center;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	margin-left: 105px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#pwalkthrough_gallery
+{
+	width: 0.01px;
+	margin-left: 9px;
+	margin-top: 59px;
+}
+
+#u2855
+{
+	z-index: 4;
+	width: 266px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 69px;
+}
+
+#u2864-16
+{
+	z-index: 21;
+	width: 221px;
+	min-height: 71px;
+	background-color: transparent;
+	text-align: center;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	margin-left: 101px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u2864-4,#u2864-9
+{
+	color: #565656;
+}
+
+#pcinemagraphs
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 61px;
+}
+
+#gallery3d,#walkthrough_gallery,#cinemagraphs
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
+#u2857
+{
+	z-index: 6;
+	width: 276px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 63px;
+}
+
+#u2865-7
+{
+	z-index: 37;
+	width: 221px;
+	min-height: 58px;
+	background-color: transparent;
+	text-align: center;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	margin-left: 101px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#treejs
+{
+	margin-left: 15px;
+	margin-top: 55px;
+	position: relative;
+}
+
+#u2870
+{
+	z-index: 50;
+	width: 340px;
+	background-color: transparent;
+	padding-bottom: 5px;
+	margin-left: 10px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u2871
+{
+	z-index: 51;
+	width: 330px;
+	min-height: 330px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 5px;
+}
+
+#augmented_reality_app
+{
+	margin-top: 47px;
+	position: relative;
+}
+
+#u2873-22
+{
+	z-index: 52;
+	width: 335px;
+	min-height: 166px;
+	background-color: transparent;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	margin-left: 10px;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#u2873-2
+{
+	font-size: 13px;
+	text-align: left;
+	line-height: 16px;
+}
+
+#u2873-3
+{
+	font-size: 11px;
+	text-align: center;
+	line-height: 13px;
+}
+
+#u2873-11,#u2873-13,#u2873-15,#u2873-17,#u2873-19,#u2873-20
+{
+	font-size: 11px;
+	text-align: left;
+	line-height: 13px;
+	color: #565656;
+}
+
+#u2874
+{
+	z-index: 74;
+	vertical-align: top;
+	width: 346px;
+	height: 124px;
+	margin-left: 10px;
+	margin-top: 21px;
+	position: relative;
+	background: url("../../images/zvectorslogo_target-u2874.png") no-repeat 0px 0px;
+}
+
+#pu3861-19
+{
+	width: 0.01px;
+	margin-left: 3px;
+	margin-top: 71px;
+}
+
+#u3861-19
+{
+	z-index: 104;
+	width: 354px;
+	min-height: 142px;
+	background-color: transparent;
+	text-align: right;
+	font-family: puritan, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+}
+
+#u2863-2,#u2864-2,#u2865-2,#u3861-2
+{
+	font-size: 13px;
+	line-height: 16px;
+}
+
+#u2863-3,#u2864-3,#u2864-14,#u2865-3,#u3861-3
+{
+	font-size: 11px;
+	line-height: 13px;
+}
+
+#u2863-8,#u2865-5,#u3861-5,#u3861-6,#u3861-9,#u3861-10,#u3861-13,#u3861-14,#u3861-17
+{
+	font-size: 11px;
+	line-height: 13px;
+	color: #565656;
+}
+
+#standalone_app
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 7px;
+}
+
+#u3859
+{
+	z-index: 102;
+	width: 354px;
+	background-color: transparent;
+	padding-bottom: 7px;
+	margin-left: 3px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u3860
+{
+	z-index: 103;
+	width: 340px;
+	min-height: 240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 7px;
+}
+
+#pu2861
+{
+	width: 0.01px;
+	margin-left: 90px;
+	margin-top: 52px;
+}
+
+#u2861
+{
+	z-index: 10;
+	width: 47px;
+	min-height: 42px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u2859
+{
+	z-index: 8;
+	width: 57px;
+	position: relative;
+	margin-right: -10000px;
+	left: 61px;
+}
+
+.logo
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u2866-6
+{
+	z-index: 44;
+	width: 84px;
+	min-height: 13px;
+	background-color: transparent;
+	color: #999999;
+	font-size: 9px;
+	line-height: 11px;
+	margin-left: 30px;
+	margin-top: 29px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
